@@ -1,0 +1,23 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "description": "Cypressautomation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/13-Sonal/cypressautomation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/13-Sonal/cypressautomation/issues"
+  },
+  "homepage": "https://github.com/13-Sonal/cypressautomation#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^11.2.0"
+  }
+}
